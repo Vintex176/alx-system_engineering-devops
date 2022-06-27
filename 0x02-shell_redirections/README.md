@@ -1,1 +1,1 @@
-commands for input and output
+to output
