@@ -1,1 +1,1 @@
-output commands used to display or make acommand
+commands for input and output
